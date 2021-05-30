@@ -2,6 +2,7 @@
 
 This is a little gag. It's like a captcha that tries to determine that you are human.
 
+**Test it out:** https://lennektro-official.github.io/MinecraftCaptcha/
 
 p5.js was used to create this project, you can find more abot it here: https://p5js.org
 
